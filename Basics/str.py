@@ -50,8 +50,8 @@ print(python.count("n")) # 몇번 나오는지
 
 
 # 문자열 포맷
-print("a"+"b")
-print("a","b")
+print("a"+"Basics")
+print("a","Basics")
 
 # 방법 1
 print("나는 %d살입니다." % 20)  # %d : 숫자를 받겠다
@@ -101,7 +101,7 @@ print("C:\\\\")  #C:\\
 # \r : 커서를 맨 앞으로 이동
 print("Red Apple\rPine")
 
-# \b: 백스페이스 (한 글자 삭제)
+# \Basics: 백스페이스 (한 글자 삭제)
 print("Redd\bApple")
 
 # \t: 탭
