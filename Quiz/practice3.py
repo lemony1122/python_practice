@@ -1,6 +1,9 @@
 from random import randint, shuffle, sample
 
-list = list(range(1,20))
+user = range(1,21)
+print(user,type(user))
+list = list(range(1,21))
+print(list,type(list))
 shuffle(list)
 chicken = list.pop()
 coffee = sample(list,3)
